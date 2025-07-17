@@ -65,7 +65,7 @@ p {
     text-align: center;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 724px) {
 
 main > .servicebox {
     max-width: 380px;
